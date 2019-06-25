@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ModulMapper</string>
+    <string name="title_activity_navigation_menu">NavigationMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_modules">modules</string>
+    <string name="AboutUs">About Us</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="Help">Help</string>
+    <string name="AboutWintec">About Wintec</string>
+    <string name="Information">Information</string>
+    <string name="Phone">Phone</string>
+    <string name="_6478386399">+6478386399</string>
+    <string name="email">Email</string>
+    <string name="addressfield">Address</string>
+    <string name="Info1">In this app , there is two main button .First one is a student login where student can login with registered ID and password. And then view the all information. Here, another option which students who are not registered , firstly they have to Sign Up for registration.</string>
+</resources>
